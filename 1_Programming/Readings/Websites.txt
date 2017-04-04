@@ -1,0 +1,2 @@
+#Day 2: Learn Python the Hard Way - Exercises 40-42
+https://learnpythonthehardway.org/book/ex40.html
